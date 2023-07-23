@@ -4,7 +4,7 @@
  * @size: the number of times of the squares
  * Return: null
 */
-void print_square(int size);
+void print_square(int size)
 {
 int a, b;
 if (size <= 0)
